@@ -1,0 +1,1 @@
+export { CustomeIcon } from "./CustomeIcon";
